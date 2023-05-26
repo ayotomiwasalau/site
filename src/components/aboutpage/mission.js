@@ -33,7 +33,7 @@ function ExperienceSec(){
                             <p class="visparag Parag">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
                             Rerum ut voluptates quisquam quidem similique modi impedit. Voluptatem, recusandae, animi corrupti consectetur, 
                             sed maiores consequatur ducimus optio fugit alias itaque? Laboriosam? </p>
-                            <p class="missparag Parag">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus officia eos esse mollitia qui quidem, non quisquam 
+                            <p class="vissparag Parag">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus officia eos esse mollitia qui quidem, non quisquam 
                             alias amet eaque dicta possimus vitae a doloremque error reiciendis sunt beatae omnis!</p>
                         </div>
                         <div class="vimge">
