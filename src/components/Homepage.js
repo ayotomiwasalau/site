@@ -5,6 +5,9 @@ import LandingSec from "./homepage/LandingHomeSec.js"
 import ExperienceSec from "./homepage/ExperienceSec.js"
 import ProgramSec from "./homepage/ProgramSec.js"
 import JoinAcadSec from "./homepage/JoinAcaSec.js"
+import Sponsor from "./homepage/sponsor.js"
+import Testimonials from "./homepage/testimonials.js"
+import ContactSec from "./homepage/ContactSec.js"
 import "./homepage.css"
 
 
@@ -15,6 +18,9 @@ function Homepage(){
             <ExperienceSec/>
             <ProgramSec/>
             <JoinAcadSec/>
+            <Sponsor/>
+            <Testimonials/>
+            <ContactSec/>
         </div>    
     );
 }
